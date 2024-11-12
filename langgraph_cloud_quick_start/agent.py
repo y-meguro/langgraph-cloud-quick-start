@@ -8,3 +8,5 @@ tools = [TavilySearchResults(max_results=2)]
 
 # compiled graph
 graph = create_react_agent(model, tools)
+
+# TODO: LangGraph Cloudが有料なので、ここから先は試してない
